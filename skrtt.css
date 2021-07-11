@@ -89,7 +89,7 @@ table {
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
-    color:hsl(249, 96%, 27%);
+    color:hsl(0deg 0% 0%);
     border-style: dotted;
 }
 section h3{
