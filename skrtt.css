@@ -9,11 +9,11 @@ a{
 }
 .medsos{
     padding:5px 0;
-    background-color: rgb(206, 29, 123)
+    background-color: rgb(26, 187, 201)
 }
 .medsos ul li {
     display: inline-block;
-    color: red;
+    color: yellow;
     margin-right: 10px;
 }
 .container {
