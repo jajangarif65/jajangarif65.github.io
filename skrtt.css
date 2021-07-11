@@ -50,7 +50,7 @@ header ul li a:hover {
 }
 .banner{
     height: 60vh;
-    background-image: url(santiago berdebu.jpg) ;
+    background-image: url(banner.jpg) ;
     background-size: cover;
     position: relative;
     display: flex;
@@ -67,7 +67,7 @@ header ul li a:hover {
     bottom:0px;
 }
 .banner h2{
-    color:black;
+    color:white;
     z-index: 5;
     padding:20px 25px ;
     border: 3px solid red;
