@@ -109,8 +109,8 @@ footer{
     text-align: center;
 }
 .label{
-    background-color: red;
-    color: white;
+    background-color: yellow;
+    color: blue;
 }
 .gallery{
     margin: 5px;
