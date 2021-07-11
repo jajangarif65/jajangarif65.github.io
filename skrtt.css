@@ -41,7 +41,7 @@ header ul li a {
     display: inline-block;
 }
 header ul li a:hover {
-    background-color:rgba(76, 0, 255, 0.87);
+    background-color:rgb(8 150 173 / 87%);
     color: ivory;
 }
 .active{
